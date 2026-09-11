@@ -32,3 +32,17 @@
 <img width="1461" height="822" alt="Screenshot 2026-08-30 122215" src="https://github.com/user-attachments/assets/b77c2150-cac3-44c4-b562-00beda206432" />
 
 
+# Bill of Materials
+6x Cherry MX Switches
+
+6x Keycaps any colour (preferably black)
+
+1x EC11 Rotary Encoder with switch and MP pins
+
+1x Seeed XIAO RP2040
+
+4x M3 Nut and Bolt, 2cm, Low profile top
+
+4x M3 Spacers, 3mm diameter, 0.6cm, circular, non-threaded
+
+1 Case (3 printed parts)
